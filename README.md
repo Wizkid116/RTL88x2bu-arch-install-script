@@ -1,4 +1,4 @@
-#WARNING!
+# WARNING!
 This repository is now depricated seeing as I no longer need this script. If any errors arise from this script, I probably won't fix them!
 # RTL88x2bu-arch-install-script
 A script that automates the install process for the RTL88x2bu driver for linux.
